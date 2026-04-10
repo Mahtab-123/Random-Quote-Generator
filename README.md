@@ -22,7 +22,6 @@ https://your-username.github.io/random-quote-generator/
 ---
 ## 📸 Preview
 
-![Preview](https://github.com/Mahtab-123/Random-Quote-Generator/blob/main/image.png)
 ![Preview](./image.png)
 ---
 
