@@ -17,7 +17,7 @@ Click the button to generate inspiring quotes instantly.
 
 ## 🌐 Live Demo
 
-https://your-username.github.io/random-quote-generator/
+https://random-quotes-generator-786.netlify.app/
 
 ---
 ## 📸 Preview
@@ -79,7 +79,7 @@ Go to Settings → Pages → Select main branch → Save
 
 Live URL:
 ```
-https://your-username.github.io/random-quote-generator/
+https://github.com/Mahtab-123/Random-Quote-Generator/
 ```
 
 ---
