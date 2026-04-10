@@ -21,9 +21,6 @@ https://your-username.github.io/random-quote-generator/
 
 ---
 
-## 📸 Preview
-
-![Preview](https://via.placeholder.com/800x400?text=Random+Quote+Generator)
 
 ---
 
@@ -68,7 +65,7 @@ quote.textContent = quotes[index];
 
 ```bash
 git clone https://github.com/your-username/random-quote-generator.git
-cd random-quote-generator
+cd Random-Quote-Generator
 ```
 
 Open index.html in your browser
