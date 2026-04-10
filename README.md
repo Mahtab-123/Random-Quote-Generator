@@ -23,7 +23,6 @@ https://your-username.github.io/random-quote-generator/
 ## 📸 Preview
 
 ![Preview](./image.png)
-
 ---
 
 ## 🚀 Features
