@@ -79,7 +79,7 @@ Go to Settings → Pages → Select main branch → Save
 
 Live URL:
 ```
-https://github.com/Mahtab-123/Random-Quote-Generator/
+https://github.com/Mahtab-123/Random-Quote-Generator/index.html
 ```
 
 ---
