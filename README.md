@@ -21,9 +21,6 @@ https://your-username.github.io/random-quote-generator/
 
 ---
 
-
----
-
 ## 🚀 Features
 
 - Random quote generation  
