@@ -20,6 +20,11 @@ Click the button to generate inspiring quotes instantly.
 https://your-username.github.io/random-quote-generator/
 
 ---
+## 📸 Preview
+
+![Preview](./image.png)
+
+---
 
 ## 🚀 Features
 
